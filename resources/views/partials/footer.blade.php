@@ -24,13 +24,13 @@
         <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">News & Updates</h6>
             <p>
-            <a href="#!">Events</a>
+            <a href="https://visualqa.org/">Official Site</a>
             </p>
             <p>
-            <a href="#!">Calender</a>
+            <a href="http://cocodataset.org/">COCO Dataset</a>
             </p>
             <p>
-            <a href="#!">Gallery</a>
+            <a href="https://github.com/YazanKhatib/VQA">Code</a>
             </p>
 
         </div>
@@ -38,20 +38,7 @@
 
         <hr class="w-100 clearfix d-md-none">
 
-        <!-- Third column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
-            <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
-            <p>
-            <a href="#!">Members List</a>
-            </p>
-            <p>
-            <a href="#!">Become a Member</a>
-            </p>
-            <p>
-            <a href="#!">Account Info</a>
-            </p>
-        </div>
-        <!-- Third column -->
+
 
         <hr class="w-100 clearfix d-md-none">
 
@@ -59,7 +46,7 @@
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
             <p>
-            <i class="fas fa-home mr-3"></i> Kafersouse, Damascus</p>
+            <i class="fas fa-home mr-3"></i>Damascus, Syria</p>
             <p>
             <i class="fas fa-envelope mr-3"></i> yazankhatib97@gmail.com</p>
             <p>
