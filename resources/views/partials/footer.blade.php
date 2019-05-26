@@ -50,9 +50,6 @@
             <p>
             <a href="#!">Account Info</a>
             </p>
-            <p>
-            <a href="#!">Contact us</a>
-            </p>
         </div>
         <!-- Third column -->
 
@@ -62,13 +59,11 @@
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
             <p>
-            <i class="fas fa-home mr-3"></i> Midan, Damascus</p>
+            <i class="fas fa-home mr-3"></i> Kafersouse, Damascus</p>
             <p>
-            <i class="fas fa-envelope mr-3"></i> info@vqa.org</p>
+            <i class="fas fa-envelope mr-3"></i> yazankhatib97@gmail.com</p>
             <p>
-            <i class="fas fa-phone mr-3"></i> +963 11 231 6166</p>
-            <p>
-            <i class="fas fa-print mr-3"></i> +963 11 231 4629</p>
+            <i class="fas fa-phone mr-3"></i> +963 941 738 664</p>
         </div>
         <!-- Fourth column -->
 
@@ -141,6 +136,7 @@
 <!-- MDB core JavaScript -->
 <script type="text/javascript" src={{url("js/mdb.min.js")}}></script>
 <script type="text/javascript" src={{url("js/addons-pro/stepper.min.js")}}></script>
+
 <script>
     src = "http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js";
 </script>

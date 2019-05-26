@@ -66,20 +66,3 @@
 
 </header>
 <!--Main Navigation-->
-
-<!--Main Layout-->
-<main style="padding-top:4rem;">
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h5> Historically, building a system that can answer natural language questions about any image has been considered a very ambitious goal. Imagine a system that, 
-          given the image below, could answer questions: Questions can be arbitrary and they encompass many sub-problems in computer vision 
-        </h5>
-
-      </div>
-    </div>
-  </div>
-
-</main>
-<!--Main Layout-->
