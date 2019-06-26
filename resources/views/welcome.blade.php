@@ -2,6 +2,13 @@
 @extends('partials.app')
 
 @section('content')
+    <style>
+        .fa-square:before {
+            content: "\f0c8";
+            color: #33b5e5;
+        }
+    </style>
+    
     <main>
 
         <div style="padding-top:4rem;" class="container">
